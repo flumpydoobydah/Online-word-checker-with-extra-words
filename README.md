@@ -22,4 +22,4 @@ Please note that due to the large amount of data, this program might not be suit
 To get started, clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/online-word-checker.git
+git clone https://github.com/PixelPilot1/Online-word-checker.git
